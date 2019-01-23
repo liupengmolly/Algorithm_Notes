@@ -19,9 +19,10 @@ $$
   
 
 | Left | Center | Right |
-| :--- | :----: | ----: |
-| 1    |   2    |     3 |
+| :--- | :----- | ----: |
+| 1    | 2      |     3 |
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi" title="equation" />
 $$
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 $$
