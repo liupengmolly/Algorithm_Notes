@@ -18,11 +18,11 @@ $$
     - [Subsection 2.1](#subsection-21)    
   
 
-| Left | Center | Right |
-| :--- | :----- | ----: |
-| 1    | 2      |     3 |
+| Left  | Center | Right |
+| :---: | :----: | :---: |
+|   1   |   2    |   3   |
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi" title="equation" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi" title="equation1" />
 $$
 f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
 $$
