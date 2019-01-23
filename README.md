@@ -22,7 +22,12 @@ $$
 | :---: | :----: | :---: |
 |   1   |   2    |   3   |
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi" title="equation1" />
-$$
-f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
-$$
+···c++
+#include <iostream>
+using namespace
+
+int main(){
+    cout<<"test"<<endl;
+    return 0;
+}
+```
