@@ -22,7 +22,7 @@ $$
 | :---: | :----: | :---: |
 |   1   |   2    |   3   |
 
-```
+```c++
 #include <iostream>
 using namespace
 
